@@ -1,7 +1,7 @@
 imovel
 ======
 
-ERP imobiliaria distribuido por sistena aandroi
+ERP imobiliaria distribuido por sistena Android
 
 
 Elementos:
